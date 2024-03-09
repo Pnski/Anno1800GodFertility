@@ -1,0 +1,52 @@
+{
+  "Version": "0.0.1",
+  "ModID": "ChangeFertilities",
+  "DeprecateIds": [],
+  "LoadAfterIds": [],
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "English": "Cheat",
+    "Chinese": "Cheat",
+    "French": "Cheat",
+    "German": "Cheat",
+    "Italian": "Cheat",
+    "Japanese": "Cheat",
+    "Korean": "Cheat",
+    "Polish": "Cheat",
+    "Russian": "Cheat",
+    "Spanish": "Cheat",
+    "Taiwanese": "Cheat"
+  },
+  "ModName": {
+    "Chinese": "ChangeFertilities",
+    "English": "ChangeFertilities",
+    "French": "ChangeFertilities",
+    "German": "ChangeFertilities",
+    "Italian": "ChangeFertilities",
+    "Japanese": "ChangeFertilities",
+    "Korean": "ChangeFertilities",
+    "Polish": "ChangeFertilities",
+    "Russian": "ChangeFertilities",
+    "Spanish": "ChangeFertilities",
+    "Taiwanese": "ChangeFertilities"
+  },
+  "Description": {
+    "English": null,
+    "German": null,
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Pnski",
+  "CreatorContact": null,
+  "Image": null
+}
