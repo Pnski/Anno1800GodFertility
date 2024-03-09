@@ -24,7 +24,7 @@
                 <Values>
                   <Action />
                   <ActionExecuteScript>
-                    <ScriptFileName>data/scripts/fertilities.lua</ScriptFileName>
+                    <ScriptFileName>data/scripts/GodLikeCheat.lua</ScriptFileName>
                   </ActionExecuteScript>
                 </Values>
               </TriggerAction>

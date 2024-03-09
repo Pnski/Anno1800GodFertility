@@ -1,6 +1,6 @@
 {
   "Version": "0.0.1",
-  "ModID": "ChangeFertilities",
+  "ModID": "GetGodlikePowers",
   "DeprecateIds": [],
   "LoadAfterIds": [],
   "IncompatibleIds": null,
@@ -19,17 +19,17 @@
     "Taiwanese": "Cheat"
   },
   "ModName": {
-    "Chinese": "ChangeFertilities",
-    "English": "ChangeFertilities",
-    "French": "ChangeFertilities",
-    "German": "ChangeFertilities",
-    "Italian": "ChangeFertilities",
-    "Japanese": "ChangeFertilities",
-    "Korean": "ChangeFertilities",
-    "Polish": "ChangeFertilities",
-    "Russian": "ChangeFertilities",
-    "Spanish": "ChangeFertilities",
-    "Taiwanese": "ChangeFertilities"
+    "Chinese": "GetGodlikePowers",
+    "English": "GetGodlikePowers",
+    "French": "GetGodlikePowers",
+    "German": "GetGodlikePowers",
+    "Italian": "GetGodlikePowers",
+    "Japanese": "GetGodlikePowers",
+    "Korean": "GetGodlikePowers",
+    "Polish": "GetGodlikePowers",
+    "Russian": "GetGodlikePowers",
+    "Spanish": "GetGodlikePowers",
+    "Taiwanese": "GetGodlikePowers"
   },
   "Description": {
     "English": null,
@@ -46,7 +46,7 @@
   },
   "KnownIssues": null,
   "DLCDependencies": null,
-  "CreatorName": "Pnski",
+  "CreatorName": "Pnski,Serp",
   "CreatorContact": null,
   "Image": null
 }
